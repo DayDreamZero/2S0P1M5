@@ -1,0 +1,28 @@
+﻿
+.foot-wrap{
+    display: block;
+    bottom:0;
+	background-color: #373f48;
+	margin-top:10px;
+}
+ .row-content h3{
+		color:#DDD;
+		font-size:16px;
+		font-weight: 300;
+		line-height: 16px;
+		margin:20px 0 30px 34px;
+     }
+.row-content ul {
+    font-size: 13px;
+    line-height: 24px;
+}
+.row-content li {
+    list-style: none;
+}
+.row-content a {
+    color: #878B91;
+}
+.row-content hover{
+		text-decoration:none;
+		color:#c1ba62;
+ }

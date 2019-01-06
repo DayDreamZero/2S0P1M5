@@ -1,0 +1,14 @@
+﻿.navbar-brand{
+    font-family:'Times New Roman';
+    cursor:pointer;
+    margin-left:20px;
+    color:white;
+    text-decoration:none;
+    font-size:40px;
+    }
+.navbar-text{
+    text-decoration:none;
+    }
+.navbar-text{
+    margin-right:10px;
+}

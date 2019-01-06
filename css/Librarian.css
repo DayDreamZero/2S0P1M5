@@ -1,0 +1,78 @@
+﻿img{
+    display:block;
+    max-width:100%;
+    border-radius:3px;
+}
+
+.lendbookImage{
+    display:block;
+    max-width:100%;
+    border-radius:3px;
+}
+
+.side-bar .list-group-item{
+    border:0;
+    border-radius:3px;
+    margin-bottom:8px;
+    
+}
+
+.book-list .book-list-item .book-image{
+    display:block;
+    max-width:80%;
+    border-radius:3px;
+}
+
+.navbar-brand{
+    font-family:'Times New Roman';
+    cursor:pointer;
+    margin-left:20px;
+    color:white;
+    text-decoration:none;
+    font-size:40px;
+    }
+.navbar-text{
+    text-decoration:none;
+    }
+.navbar-text{
+    margin-right:10px;
+}
+
+.hmf-button{
+    background-color:#07938A;
+    border-radius:2px;
+    color:white;
+    border:solid;
+    border-color:#07938A;
+    height:35px;
+}
+
+.hmf-gridviewHeader{
+    
+    font-weight:100;
+}
+
+.hmf-textbox{
+    height:26px;
+}
+
+html, body {
+    height: 100%;
+   }
+ 
+.wrapper {
+    position: relative;
+    min-height: calc(100% - 20px); 
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 10px;
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+    background-color:#222222;
+    color:white;
+  }
